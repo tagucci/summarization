@@ -1,2 +1,6 @@
 # summarization
-implementation of summarization algorithm by python
+
+- LexRank
+
+Graph based summarization algorithm by [Erkan and Radev, 2004]
+
